@@ -1,0 +1,21 @@
+.qheader{
+font:bold 14px Arial;
+}
+
+.qselections{
+font:normal 13px Arial;
+}
+
+body{
+    
+    background-color: rgb(151, 149, 141);
+    background-image: url('https://wallpapercave.com/wp/wp1830665.jpg');
+
+  }
+
+  .questions{
+  	background-color: rgb(189, 187, 184);
+  	opacity: 0.75;
+  	right: 40px;
+
+  }
